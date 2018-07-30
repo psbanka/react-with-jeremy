@@ -1,3 +1,6 @@
+We were working through this example https://reactjs.org/docs/thinking-in-react.html
+
+
 This project was bootstrapped with [Create React App](https://github.com/facebookincubator/create-react-app).
 
 Below you will find some information on how to perform common tasks.<br>
